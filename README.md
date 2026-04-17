@@ -1,0 +1,2 @@
+# EasyMidiAnimation
+Midiファイルと連携し簡単にアニメーション制作
